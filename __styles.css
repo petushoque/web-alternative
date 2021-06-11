@@ -1,0 +1,77 @@
+.page {
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Montserrat', sans-serif;
+    color: #FFFFFF
+}
+
+.header {
+    width: 100%;
+    max-width: 1920px;
+}
+
+
+
+
+/*
+
+.header__logo {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.header__logo-img {
+    width: 62px;
+    height: 32px;
+}
+
+.header__logo-text {
+    font-family: 'TT Norms';
+    font-weight: 500;
+    font-style: normal;
+    font-size: 11.1515px;
+    line-height: 13px;
+    letter-spacing: 0.3em;
+    white-space: nowrap;
+    margin: 0 0 0 14px;
+    padding: 0;
+}
+
+.header__top-bar {
+    padding: 0 255px 0 255px;
+    height: 90px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header__back-call {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.header__back-call-button {
+    width: 166px;
+    height: 47px;
+    background-color: transparent;
+    color: #FF834E;
+    border: 1px solid #FF834E;
+}
+
+.menu {
+    display: flex;
+    flex-direction: row;
+}
+
+.menu__item {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+*/
